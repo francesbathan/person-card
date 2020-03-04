@@ -1,7 +1,8 @@
 import React from "react";
-import logo from "./logo.svg";
+// import logo from "./logo.svg";
 import "./App.css";
 import PersonCard from "./components/PersonCard";
+// import Button from "./components/Button";
 
 function App() {
   return (
